@@ -1,0 +1,14 @@
+{
+  "resourceName": "storage",
+  "policyUUID": "1517983b",
+  "bucketName": "lifebucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
